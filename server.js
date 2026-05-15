@@ -32,7 +32,7 @@ const server = http.createServer((request, response) => {
     }
 
     response.writeHead(200, {
-      "cache-control": "public, max-age=3600",
+      "cache-control": "no-cache",
       "content-type": mimeTypes[path.extname(filePath)] || "application/octet-stream"
     });
     response.end(content);
