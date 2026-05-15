@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Vahid Blog Maskable Icon</title>
+  <rect width="512" height="512" fill="#0d1110"/>
+  <circle cx="256" cy="256" r="204" fill="#141b18"/>
+  <path d="M144 166h224v180H144z" fill="#0f1513" stroke="#29342f" stroke-width="16"/>
+  <path d="M184 210h148M184 256h112M184 302h148" stroke="#4fd1c5" stroke-width="22" stroke-linecap="round"/>
+  <path d="M332 344l42 42" stroke="#f59e6b" stroke-width="22" stroke-linecap="round"/>
+</svg>

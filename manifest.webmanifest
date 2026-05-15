@@ -1,0 +1,25 @@
+{
+  "name": "Vahid's Blog",
+  "short_name": "Vahid Blog",
+  "description": "Practical notes on software, product judgment, creative tools, and humane digital work.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1110",
+  "theme_color": "#0d1110",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
